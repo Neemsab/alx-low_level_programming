@@ -9,7 +9,6 @@
 */
 int main(void)
 {
-
 	int n, last_d;
 
 	srand(time(0));
