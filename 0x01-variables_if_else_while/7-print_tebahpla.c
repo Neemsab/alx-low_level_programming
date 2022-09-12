@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 /**
  *main - print alphabet reversed using putchar
  *Return: Always 0 (Success) 
